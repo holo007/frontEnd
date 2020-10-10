@@ -2,13 +2,13 @@
 
 <p>Ce dossier contient 2 exercices JS effectués en évaluation</p>
 
-<p>EXO 1 - Formulaire saisie email/mot de passe<br/>
+<p>JS EXO 1 - Formulaire saisie email/mot de passe<br/>
 Objectifs : <br/>
 Vérifier la cohérence d'un email (contient un @ et un domaine avec un . et une extension)<br/>
 Vérifier le mot de passe (longueur, composition)<br/>
 </p>
 <p>
-EXO 2 - Carte interactive avec utilisation API geo.api.gouv.fr<br/>
+JS EXO 2 - Carte interactive avec utilisation API geo.api.gouv.fr<br/>
 Objectifs :<br/>
 Au survol : changement de couleur<br/>
 Au clic : changement de couleur et affichage de la région sélectionnée sur la droite de la carte
